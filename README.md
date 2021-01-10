@@ -4,7 +4,7 @@
 
 Based on the tutorial [Build a Command Line app with Go: lolcat](https://flaviocopes.com/go-tutorial-lolcat/) by [Flavio Copes](https://flaviocopes.com/).
 
-### Instalação
+### Installation
 
 You need `go` installed and `GOBIN` in your `PATH`. Once that is done, run the
 command:
